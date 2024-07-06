@@ -1,0 +1,137 @@
+The Non-Obvious Skills Data Scientists Should Think About
+Introduction
+Choosing Data Science: If you've chosen data science as a profession, you're likely accustomed to working on tough problems alone for extended periods. This solitary work is part of the job.
+Collaborative Nature: Despite the solitary aspect, completing a whole project alone is not feasible. Data science is inherently about addressing organizational challenges with data, necessitating collaboration.
+Key Interactions: Thriving in data science requires specific skills related to interacting and working with a variety of colleagues, including subject matter experts, IT professionals, and senior management.
+Experience and Lessons: Keith McCormick, with 25 years of experience in data science projects, shares valuable lessons learned over dozens of projects.
+Data Science is About Inference and Prediction
+Course Utility: Hundreds of thousands of practicing data scientists have found courses beneficial for navigating non-technical aspects of their roles. This section targets both aspiring and current data scientists.
+Organizational Use of Data Science Teams: Understanding how most organizations utilize their data science teams is crucial for newcomers.
+Definition by the Initiative for Analytics and Data Science Standards: "Using data to achieve specified goals by designing or applying computational methods for inference or prediction." This definition encapsulates the core functions of data science.
+Inference:
+Nature: Inference involves answering management's questions with data, often when the data is incomplete or unclear.
+Skills: Drawing on statistical skills is essential for performing inference tasks.
+Example: An executive might ask if increased targeted marketing spend last quarter had a measurable impact. This requires analyzing data to provide a clear answer.
+Prediction:
+Nature: Prediction involves building models to use data for driving ongoing, day-to-day decisions.
+Skills: Machine learning skills are crucial for developing predictive models.
+Example: Identifying which currently late mortgages would benefit from a proactive refinance program. This involves creating a model that provides individual predictions for each mortgage.
+Technological Evolution: The technical side of data science evolves rapidly, making it seem overwhelming at times. However, the fundamental tasks remain focused on inference and prediction.
+Course Focus: While the course emphasizes predictive modeling, both inference and prediction are integral to data science. Future videos will provide specific advice for interacting with executives to discern whether they need inference or prediction.
+Diagnosing Inference vs. Prediction Projects
+Executive Requests: Most executives won't be exact with their requests. They usually have a clear goal but struggle with ill-defined problems, leading them to seek help from the data science team.
+Inference Projects:
+Indicators: Executives may struggle with strategic decisions they need to make or that their boss needs to make.
+Examples: Questions like "Did that big marketing campaign last quarter move the needle?" or "Why are we losing our biggest accounts recently?" indicate a need for inference.
+Skills Required: These situations require statistical skills rather than complex machine learning models.
+Potential Pitfalls: Using a complicated machine learning model for these questions can be problematic, especially if the model is hard to explain.
+Prediction Projects:
+Indicators: Listen for ongoing, discrete decision-making problems that management wants to address with data.
+Examples: Deciding which customers to extend offers to or identifying potential frauds indicate a need for predictive models.
+Skills Required: These problems require machine learning skills to develop effective predictive models.
+Diagnosing the Problem: Correctly diagnosing whether a project requires inference or prediction is crucial for ensuring project success. This involves understanding the organizational context and applying non-technical skills effectively.
+Practical Advice and Course Content
+Interacting with Executives: Specific advice will be provided for understanding whether executives need inference or prediction, helping data scientists navigate their roles more effectively.
+Focus Areas: The course will focus more on predictive modeling but will also cover inference to provide a comprehensive understanding of both aspects.
+Challenges and Solutions: The course will delve into the practical challenges faced by practicing data scientists and offer strategies to overcome them.
+By elaborating on each section, this detailed summary provides a comprehensive overview based on the transcript provided. Let me know if there are further details or adjustments you'd like to include.
+Confidently Defending Your Turf
+Navigating the Ambiguity of Your Role:
+
+Vague Job Titles: If your title includes terms like "data science," "predictive analytics," or "advanced analytics," it's important to recognize that not everyone will define your role the same way. Your job description may have been vague, or it might not exist in written form at all. The reality of your role could differ significantly from how it was described during interviews.
+Facing Common Challenges: These ambiguities can lead to frustration, especially if your organization is still grappling with how to effectively use analytics. You might end up with projects that don't align with your expectations. This is a common issue for many data scientists.
+Proactive Communication:
+
+Discuss with Management: Sharing your concerns only with friends won't resolve them. You need to have open discussions with your management about your role and the projects you're assigned.
+Organizational Struggles: Often, these challenges arise because your organization is still figuring out the best way to integrate analytics. This can result in data science teams handling tasks that are more suited for BI or IT.
+Strategic Career Mapping:
+
+Balancing Team Play and Career Goals: You must navigate being a team player while also mapping out a career path that aligns with your interests and strengths. This requires strategic communication and negotiation with your boss.
+Initiative and Suggestions: Proactively describe the types of projects you want to work on. Remind your boss of the discussions during your interview and suggest projects that could benefit both the team and the organization.
+Long-term Planning: Consider outlining what you want your role to look like in the next year or so. Revisit this topic during review periods to align your career goals with the organization's needs.
+Avoiding Extremes:
+
+Flexibility with Projects: While it's important to push for projects that showcase your analytical skills, you should avoid being too rigid. If you only want to work on cutting-edge algorithms with the latest software, you might limit your opportunities.
+Focus on Analytical Skills: Aim to work on projects where your predictive modeling skills can shine. This will increase your chances of being recognized as a valuable predictive modeler.
+Embracing Ambiguity
+Expecting the Unexpected:
+
+Inventor's Mindset: Data science projects often require you to achieve goals with no clear path to get there. This is similar to the mindset of an inventor.
+Problem Definition: The problem definition stage is critical. Slowing down and thoroughly understanding the business and data context is essential before diving into modeling.
+Case Study:
+
+Factory Maintenance Costs Project: A project involved identifying over-budget maintenance costs in a factory. Initially, the approach seemed straightforward—comparing actual costs to budgeted costs. However, complications arose, such as the lack of budget data for individual operations.
+Collaboration and Persistence:
+
+Engaging Subject Matter Experts: Collaboration with subject matter experts (SMEs), like finance professionals and chemical engineers, was crucial. Through brainstorming and persistence, a creative solution was found by using parts lists to estimate maintenance budgets.
+Iterative Problem Solving: The project highlighted the importance of iterative problem-solving, collaboration, and the willingness to revisit and refine initial ideas.
+Cognitive Empathy
+Understanding Human Behavior:
+
+Complementary Fields: Cognitive science and psychology complement data science. Data scientists often need to understand the thought processes behind human decisions.
+Human Behavior Component: Many data science problems, like delayed luggage, warranty claims, and traffic accidents, involve significant human behavior elements.
+Empathy in Data Science:
+
+Feature Engineering: Observing real-world behaviors and comparing them to data helps in creating better features for models. This involves understanding motivations and behaviors not always captured in the data.
+Retail Store Example: Visiting a retail store to observe customer behavior can reveal insights not evident in the data, leading to more effective feature engineering and improved models.
+Skepticism
+Critical Thinking:
+
+Questioning the Data: Developing a skeptical mindset is crucial. Data can sometimes be misleading, and it's important to question and verify the analysis.
+Utility Company Example: A case where customer satisfaction scores were analyzed revealed that scores fluctuated seasonally, influenced by events like shut-offs for nonpayment. This insight came from questioning the data and looking for underlying patterns.
+Bravery in Skepticism:
+
+Challenging Assumptions: It takes courage to question established methods, especially when they have significant implications. However, this skepticism can lead to important discoveries and better decision-making.
+Seasonality in Satisfaction Scores: Recognizing and analyzing the seasonality in customer satisfaction scores provided a new perspective, highlighting the need to consider external factors that could influence data.
+Conclusion
+Developing Non-Technical Skills:
+
+Effective Communication: Discuss your role and career goals with management to align expectations and projects.
+Collaborative Problem-Solving: Engage with SMEs and colleagues to refine problem definitions and solutions.
+Empathy and Skepticism: Understand human behavior and maintain a skeptical mindset to improve data analysis and modeling.
+By mastering these non-technical skills, data scientists can navigate the complexities of their roles, contribute more effectively to their organizations, and achieve greater career satisfaction.
+Here are the key takeaways from the provided transcript on effective data science practices:
+
+1. Curiosity
+Investigate Unusual Data Patterns: When noticing anomalies, like customers checking their bank balance excessively, it's important to explore potential causes rather than dismissing them.
+Challenge Simplistic Explanations: Simple deletions of anomalous data can overlook significant insights. Understand the context and look for underlying causes.
+Ask Detailed Questions: Investigating the variables influencing model outputs requires questioning the data's nature, its collection process, and its relevance.
+Creative Problem-Solving: Sometimes, indirect clues or missing data can reveal significant insights, such as distinguishing between prepaid and postpaid customers in mobile data.
+2. Commitment to Your Craft
+Continuous Learning: Dedicate time annually for professional development through reading, training, and attending conferences. Stay updated with emerging trends and technologies.
+Types of Conferences:
+Professional Conferences: Good for those early in their careers with opportunities for networking and exposure to new tools.
+Academic Conferences: Suitable for those with a solid background in the field; involves detailed research presentations.
+Vendor Conferences: Focus on specific tools or technologies; useful for networking and understanding industry trends.
+Networking: Building relationships with experts and attending various conferences can provide valuable industry insights and professional growth.
+3. Managing Both Up and Down
+Negotiating with Peers and Superiors: Often, you'll need to collaborate with colleagues who do not report to you. Building rapport and clear communication are essential.
+Dealing with IT and Data Access: Requesting data from IT or performing data-intensive operations requires diplomacy and understanding of system limitations.
+Clear Instructions: Ensure your requests are understandable and free of jargon. Clarity prevents misunderstandings and inefficiencies.
+Interacting with Senior Executives: Be prepared and concise. When seeking decisions, provide well-considered options and clearly state your recommendations.
+Overall Approach
+Curiosity and Investigation: Always dig deeper into data anomalies and model outputs. Simple answers might overlook complex realities.
+Commitment to Learning: Regularly update your skills and knowledge through continuous learning and attending diverse conferences.
+Effective Communication: Develop the ability to communicate clearly with both peers and senior executives, ensuring mutual understanding and efficient collaboration.
+By applying these principles, you can enhance your data science practices, making your analyses more robust and your professional growth more dynamic.
+Here are the main points from the provided transcript on effective analytics translation, diplomacy, persuasion, and next steps in data science projects:
+
+Being an Effective Analytics Translator
+Bilingual Skills: Data scientists must speak both technical (analytics) and business languages (ROI, revenue, etc.).
+Role of Analytics Manager: They translate business objectives into modeling goals and model performance into business metrics.
+Navigating Complexity: Projects should focus on clear objectives and avoid unnecessary complexity to ensure clarity in communication with stakeholders.
+Diplomacy
+Organizational Resistance: Resistance often stems from fear of change or mistrust in analytics. Data scientists must build trust by being seen as impartial advisors focused on truth-seeking.
+Involving End Users: Early involvement of end-users reduces resistance during deployment and ensures practicality and relevance of solutions.
+Persuasion
+Presenting Results: Stakeholders care about practical implications more than technical details. Presentations should focus on how analytics solve business problems and anticipate tough questions.
+Preparation and Anticipation: Anticipate stakeholder concerns, be prepared to explain methodologies concisely, and avoid getting bogged down in technical minutiae.
+Next Steps
+Continued Learning: Encourages diving into practical projects and considering further courses to deepen understanding and skills.
+Course Recommendations: Suggests exploring related courses for strategic insights (Essential Elements) and technical proficiency (Intro to Classification).
+Overall Advice
+Strategic Approach: Emphasizes the importance of practical application, ongoing learning, and strategic alignment with business goals in data science projects.
+These principles emphasize the importance of effective communication, strategic thinking, and continuous learning in navigating the complex landscape of data science within organizations.
+
+
+
